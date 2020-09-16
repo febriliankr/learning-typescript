@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Learning React-Typescript 
+
+First time learning react typescript, with the help of [https://www.typescriptlang.org/](https://www.typescriptlang.org/) and Ben Awad YouTube video instructions.
+
+Created through executing `npx create-react-app my-app --template typescript`
 
 ## Available Scripts
 
